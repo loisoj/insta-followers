@@ -10,6 +10,7 @@ function getRandomNumber(start, end, increments) {
 }
 
 var interval = getRandomNumber(25, 45, 1);
-a=document.getElementsByClassName("_5f5mN");
-function nakr() {a[0].click();id==1;}
+a=document.getElementsByClassName("_5f5mN");   
+xf= document.getElementsByClassName("aOOlW");
+function nakr() {a[0].click();xf[0].click();id==1;}
 setInterval(nakr,interval*1000);
